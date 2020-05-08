@@ -32,4 +32,10 @@ h3 {
     background-color: red;
     margin-right: 450px;
     margin-left: 450px;
+    font-size: large;
+}
+
+.list{
+    text-align: center;
+    background-color: aquamarine;
 }
