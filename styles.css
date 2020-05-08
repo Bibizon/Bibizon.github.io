@@ -1,0 +1,35 @@
+body{
+    background-color: LightCyan;
+}
+
+h1{
+    color: red
+}
+
+h2{
+    text-align: center;
+}
+
+h3 {
+    color: Gray;
+}
+
+.pov {
+    background-color: salmon;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.lyr {
+    text-align: center;
+    margin-left: 720px;
+    margin-right: 720px;
+    background-color: palegreen;
+}
+
+.kill{
+    color: white;
+    background-color: red;
+    margin-right: 450px;
+    margin-left: 450px;
+}
