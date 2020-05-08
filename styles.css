@@ -33,6 +33,7 @@ h3 {
     margin-right: 450px;
     margin-left: 450px;
     font-size: large;
+    outline: 5px solid crimson;
 }
 
 .lis{
@@ -43,4 +44,11 @@ h3 {
     margin-left: 450px;
     padding: 10px;
     outline: 2px solid black;
+}
+
+.home{
+    text-align: center;
+    background-color: dodgerblue;
+    padding: 10px;
+    font-size: large;
 }
