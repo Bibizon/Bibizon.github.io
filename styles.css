@@ -2,7 +2,7 @@ body{
     background-color: LightCyan;
 }
 
-h1{
+.heading1{
     color: red
 }
 
@@ -38,4 +38,8 @@ h3 {
 .list{
     text-align: center;
     background-color: aquamarine;
+    font-size: large;
+    margin-right: 450px;
+    margin-left: 450px;
+    padding: 10px;
 }
