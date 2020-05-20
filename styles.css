@@ -3,7 +3,8 @@ body{
 }
 
 .heading1{
-    color: red
+    color: red;
+    text-align: center;
 }
 
 h2{
@@ -12,6 +13,7 @@ h2{
 
 h3 {
     color: Gray;
+    text-align: center;
 }
 
 .pov {
@@ -55,4 +57,9 @@ h3 {
 
 .sansk{
     font-size: xx-large;
+}
+
+.listing{
+    text-align:center;
+    font-size: larger;
 }
