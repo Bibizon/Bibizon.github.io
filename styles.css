@@ -63,3 +63,48 @@ h3 {
     text-align:center;
     font-size: larger;
 }
+
+.table{
+    text-align: center;
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+.headtable{
+    color: maroon;
+    border: 2px solid black;
+}
+
+.td{
+    border: 2px solid grey;
+}
+
+.type1{
+    background-color: green;
+}
+
+.type2{
+    background-color: yellow;
+}
+
+.type3{
+    background-color: #9ACD32;
+}
+
+.kalam{
+    border: 2px solid black;
+}
+
+.sush{
+    background-color: lightyellow;
+}
+
+.nice{
+    background-color: aqua;
+}
+
+.water{
+    background-color: mediumblue;
+    color: white;
+}
